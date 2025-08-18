@@ -1,0 +1,1 @@
+console.writeline("This is where all old & new versions will be archived, now why this is its own repo? because 1. the aus mega collection repo is for other games made by me,and 2 this is where ill be publishing the beta & release versions due to how penguinmod servers run like a potato......and because github is a safer be to publish to then penguinmod.");
