@@ -5,13 +5,10 @@ However going foward there will be three different versions Beta,release,and web
 
 IOS & android(no pc required): ok this method requires internet connect & microsoft edge so go to app store/google play and download edge then download the .html file and open in edge and your free to go.
 
-PS3(ps3hen or cfw): OKay i didnt even know that this was even possible,your ps3 MUST be on cfw or on ps3hen,if not then you unfornately cant do this method....you'll need a ps3(duh) a pc,and a usb stick(formatted to fat32). ok ready? heres the steps,  use ps3xploit xml replacer (if not installed install it) define the launch path to your usb (it should be on the ROOT of your usb stick,meaning you cannot put it inside of any folders) the xml & its icons are generated & bundled into a .pkg file which is then installed onto the ps3,note: if it didnt auto install,please use ps3hen (or a alternative package installer) to install it & launching it should now work. (keep in mind you have to transfer over the sb3bpmp files manually).
 
 Windows 10/11 PC(64 bit):this is assuming you have a 64 bit windows 10/11 pc, unzip the zip file & then run the .exe (sometime because the .exe isnt signed windows defender/any anti virus will get pissed off so you may have to make a exception) and your good to go
 
-Windows 10/11 pc(32 bit/arm):eventually ill make it for 32 bit if i can figure out to make sure peformance will be fine.
+Windows 10/11 pc(32 bit/arm): unzip the .zip for your respective windows 10/11 variant (32 bit or arm) then run the .exe, you may have to make a exception for the exe for windows defender or any other antivirus...
 
-3ds(modded): i didnt even know this was possible either...your 3ds has to be modded for this to work & must have homebrew apps ready?
-use universial updater to get netsurf 3ds (or use your pc to sideload the .cia or .3dsx file onto the root of the sd card) and use either homebrew launcher to launch it,or use fbi to install the .cia file,then just use netsurf 3ds to use it.
 
-macos & linux (64 & 32 bit): again,ill eventually roll out versions to both macos & linux but the windows testing hasnt ended yet so give me a break :(
+macos: unzip the .zip file and run the .app file(due to antivirus shangians you may need to make a exception in your antivirus settings)
