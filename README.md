@@ -18,8 +18,12 @@ Windows 10/11 pc(32 bit/arm): unzip the .zip for your respective windows 10/11 v
 
 macos: unzip the .zip file and run the .app file(due to antivirus shangians you may need to make a exception in your antivirus settings)
 
-
-#   Info on PS3,3DS,and TI 84 plus ce python
-I originally planned on porting this to the 3ds & ps3 as well,but i quickly realized this would mean REbuilding the WHOLE lapi framework for those devices & extreme devkitpro knowledge and a LOT of ps1light shenaniganes with additionally rebuilding the WHOLE penguinmod,snail ide,dinosaurmod,electramod,turbowarp & scratch runtimes.....which would require crazy knowledge,combined with id have to.....somehow MAKE a version useable for those versions......which unfornately i also thought about the TI 84 plus ce python......until i realized ti python is slow as crap & ti basic wouldnt allow for such controls of the cpu so c it is.....except that would require a jailbreak method,and a lot would have to be stripped down
-# Aus project loader lite (APLL)
-update,Please use the bash script called "linuxmain.sh" for linux only so please don't use the c script as i plan for that to be a future remake of the engine in c,also on other note not every linux distro is supported,some may work,others may not,in all just use the html file if it doesnt work
+# Porting 
+- [x] android
+- [ ] Linux
+- [ ] Windows Vista & older
+- [x] MacOS 12 and newer
+- [x] Windows 32 bit & ARM
+- [x] Windows 10/11
+- [x] IOS
+- [ ] Ti 84 Plus CE (probably not but there is a library called libscratchcpp that may allow this)
