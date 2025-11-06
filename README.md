@@ -27,3 +27,8 @@ macos: unzip the .zip file and run the .app file(due to antivirus shangians you 
 - [x] Windows 10/11
 - [x] IOS
 - [ ] Ti 84 Plus CE (probably not but there is a library called libscratchcpp that may allow this)
+
+
+  # Libraries Used
+      
+libscratchcpp (for the cpp file which you must put the scratch project inside of the '/APL/' folder & the project must be called 'project.sb3' all lowercase.
