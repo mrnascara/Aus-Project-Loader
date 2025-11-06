@@ -13,3 +13,30 @@ int main(int argc, char **argv) {
   p.run();
   return 0;
 }
+penguin()
+{
+int main(int argc, char **argv) {
+  libscratchcpp::Project p("/APL/project.pmp");
+  bool ret = p.load();
+  if (!ret)
+    return 1;
+
+  p.run();
+  return 0;
+}
+
+}
+
+sb()
+{
+int main(int argc, char **argv) {
+  libscratchcpp::Project p("/APL/project.sb");
+  bool ret = p.load();
+  if (!ret)
+    return 1;
+
+  p.run();
+  return 0;
+}
+
+}
