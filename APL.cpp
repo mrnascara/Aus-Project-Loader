@@ -1,4 +1,4 @@
-//this is where the lnux code will go
+//this is where the the cpp logic will go for now.
 #include <stdio.h>
 #include <stdlib.h>
 #include <scratchcpp/project.h>
