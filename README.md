@@ -8,7 +8,7 @@ However going foward there will be three different versions Beta,release,and web
 
 # Setup
 
-IOS & android(no pc required): ok this method requires internet connect & microsoft edge so go to app store/google play and download edge then download the .html file and open in edge and your free to go.
+IOS & android(no pc required): ok this method requires internet connection & microsoft edge so go to app store/google play and download edge then download the .html file and open in edge and your free to go.
 
 
 Windows 10/11 PC(64 bit):this is assuming you have a 64 bit windows 10/11 pc, unzip the zip file & then run the .exe (sometime because the .exe isnt signed windows defender/any anti virus will get pissed off so you may have to make a exception) and your good to go
@@ -17,7 +17,7 @@ Windows 10/11 pc(32 bit/arm): unzip the .zip for your respective windows 10/11 v
 
 c++:run the cpp file and then it should load projects in the '/APL/' folder,fyi that sb files & pmp files are half supported (you cant load penguinmod or scratch 1.0 projects but can load sb3 projects renamed to pmp or sb,also it must be project all lowercase.)
 
-macos: unzip the .zip file and run the .app file(due to antivirus shangians you may need to make a exception in your antivirus settings)
+macos: unzip the .zip file and run the .app file (due to antivirus shangians you may need to make a exception in your antivirus settings)
 
 # Porting 
 - [x] android
@@ -29,6 +29,8 @@ macos: unzip the .zip file and run the .app file(due to antivirus shangians you 
 - [x] IOS
 - [ ] Ti 84 Plus CE (probably not but there is a library called libscratchcpp that may allow this)
 - [x] C++(kinda not fully finished as i still have to add more functions but close)
+- [ ] Scratch 1.x support for c++(yeah this would require a runtime remake,thus that and it would be quite annoying to do.)
+- [ ] Micro bit for c++(seems possible.i'll look into doing this library)
 
 
   # Libraries Used
