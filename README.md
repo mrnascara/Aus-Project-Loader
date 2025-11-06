@@ -27,6 +27,7 @@ macos: unzip the .zip file and run the .app file(due to antivirus shangians you 
 - [x] Windows 10/11
 - [x] IOS
 - [ ] Ti 84 Plus CE (probably not but there is a library called libscratchcpp that may allow this)
+- [x] C++(kinda not fully finished as i still have to add more functions but close)
 
 
   # Libraries Used
