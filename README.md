@@ -15,6 +15,7 @@ Windows 10/11 PC(64 bit):this is assuming you have a 64 bit windows 10/11 pc, un
 
 Windows 10/11 pc(32 bit/arm): unzip the .zip for your respective windows 10/11 variant (32 bit or arm) then run the .exe, you may have to make a exception for the exe for windows defender or any other antivirus...
 
+c++:run the cpp file and then it should load projects in the '/APL/' folder,fyi that sb files & pmp files are half supported (you cant load penguinmod or scratch 1.0 projects but can load sb3 projects renamed to pmp or sb,also it must be project all lowercase.)
 
 macos: unzip the .zip file and run the .app file(due to antivirus shangians you may need to make a exception in your antivirus settings)
 
