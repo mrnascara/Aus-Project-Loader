@@ -36,3 +36,4 @@ macos: unzip the .zip file and run the .app file (due to antivirus shangians you
   # Libraries Used
       
 libscratchcpp (for the cpp file which you must put the scratch project inside of the '/APL/' folder & the project must be called 'project.sb3' all lowercase.
+raylib (for the makey makey c++ version)
