@@ -2,6 +2,8 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <scratchcpp/project.h>
+#include <Cpp/Makeymakey.hpp>
+
 //libscratchcpp
 
 int main(int argc, char **argv) {
