@@ -14,9 +14,11 @@
 *.hxx linguist-detectable=true
 *.json linguist-language=JSON
 *.json linguist-detectable=true
-*.sb3 linguist-language=binary
+*.sb3 linguist-language=JSON
 *.sb linguist-language=binary
-*.pmp linguist-language=binary
+*.pmp linguist-language=JSON
 *.sb3 linguist-detectable=true
 *.sb linguist-detectable=true
 *.pmp linguist-detectable=true
+*project.json linguist-language=JSON
+*project.json linguist-detectable=true
