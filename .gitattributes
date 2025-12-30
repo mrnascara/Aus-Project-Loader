@@ -20,3 +20,5 @@
 *.sb3 linguist-detectable=true
 *.sb linguist-detectable=true
 *.pmp linguist-detectable=true
+*.project.json linguist-language=JSON
+*.project.json linguist-detectable=true
