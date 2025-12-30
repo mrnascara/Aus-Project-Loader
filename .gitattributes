@@ -12,3 +12,5 @@
 *.hh linguist-detectable=true
 *.hpp linguist-detectable=true
 *.hxx linguist-detectable=true
+*.json linguist-language=JSON
+*.json linguist-detectable=true
