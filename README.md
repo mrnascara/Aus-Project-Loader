@@ -2,7 +2,7 @@
 read Legacy.md 
 
 # project info
-First,I should mention that aus project loader(APL) is built in the penguinmod programming language and some of scratch 3.0 meaning sb3(scratch 3.0 files) and pmp(penguinmod files) are very common.For easier sake sb3 amd pmp files will be listed as binary while the project.json will be listed json.
+First,I should mention that Aus Project Loader(APL) is built in the penguinmod programming language and some of scratch 3.0 meaning sb3(scratch 3.0 files) and pmp(penguinmod files) are very common.For easier sake sb3 amd pmp files will be listed as binary while the project.json will be listed json.
 
 # file format support list
  Scratch 3.0 (works)
