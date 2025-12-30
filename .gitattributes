@@ -14,3 +14,6 @@
 *.hxx linguist-detectable=true
 *.json linguist-language=JSON
 *.json linguist-detectable=true
+*.sb3 binary
+*.sb binary
+*.pmp binary
