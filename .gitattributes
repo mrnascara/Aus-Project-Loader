@@ -17,3 +17,6 @@
 *.sb3 binary
 *.sb binary
 *.pmp binary
+*.sb3 linguist-detectable=true
+*.sb linguist-detectable=true
+*.pmp linguist-detectable=true
