@@ -1,3 +1,8 @@
+# NOTE
+this version will be killed off. yes APL is ending support for the penguinmod based version and all versions. eventually this will be reborn into C but for now, this is it. 1.4.3 will be released this week.
+
+
+
 # history
 read Legacy.md 
 
